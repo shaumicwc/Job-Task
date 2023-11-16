@@ -106,7 +106,7 @@ const Login = () => {
             </div>
             <div onClick={googleSignIn} className='flex w-10/12 border-2 rounded-3xl mx-auto p-2 my-5 justify-between items-center  hover:bg-gray-200 cursor-pointer'>
                 <img className='h-8 w-8' src={googleLogo} alt="" />
-                <p className='font-semibold mx-auto'>Continue with Facebook</p>
+                <p className='font-semibold mx-auto'>Continue with Google</p>
             </div>
         </div>
        </>
